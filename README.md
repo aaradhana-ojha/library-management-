@@ -8,15 +8,15 @@
 ```bash
   cd Django-librarymanagement-main
 ```
-## 5. Install the project dependencies:
+## 2. Install the project dependencies:
 ```bash
   pip install -r requirements.txt
 ```
-## 6 . Run the server
+## 3 . Run the server
 ```bash
   python manage.py runserver
 ```
-## 7 . Go to localhost:8000
+## 4 . Go to localhost:8000
 ---
 
 ## Features of this project:
